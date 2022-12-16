@@ -5,5 +5,17 @@
 
 .icon-login {
     width: 40px;
-    margin-right: 10px;
-    }
+}
+
+.pagination {
+    margin: 10px;
+    justify-content: center;
+}
+
+.bg-secondary {
+    border-radius: 10px;
+}
+
+.dropdown {
+    background-color: white;
+}
